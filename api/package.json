@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "api": "json-server db.json --watch --host localhost --port 3001"
+    }
+}
