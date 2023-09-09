@@ -1,19 +1,100 @@
 {
-    "posts": [
+    "introduction": [
         {
-            "id": 1,
-            "title": "json-server",
-            "author": "typicode"
+            "routeItem": "Basic programming"
+        },
+        {
+            "routeItem": "Data structures and algorithms"
+        },
+        {
+            "routeItem": "Object-oriented programming"
+        },
+        {
+            "routeItem": "Database"
+        },
+        {
+            "routeItem": "Web Programming"
+        },
+        {
+            "routeItem": "Learn how to use the Framework"
+        },
+        {
+            "routeItem": "Build real projects"
         }
     ],
-    "comments": [
+    "frontend": [
         {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "routeItem": "HTML & CSS"
+        },
+        {
+            "routeItem": "Javascript basic and advanced"
+        },
+        {
+            "routeItem": "Boostrap"
+        },
+        {
+            "routeItem": "SCSS/SASS"
+        },
+        {
+            "routeItem": "Figma or Photoshop"
+        },
+        {
+            "routeItem": "Learn how to use the Framework: ReactJS, VueJS, AngularJS"
+        },
+        {
+            "routeItem": "Build real projects"
         }
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "backend": [
+        {
+            "routeItem": "Learn server-side programming languages: Javascript(NodeJS) or TypeScript(NextJS)"
+        },
+        {
+            "routeItem": "Database: MySQL, PostgreSQL or SQLite"
+        },
+        {
+            "routeItem": "RESTful API"
+        },
+        {
+            "routeItem": "Web Services: Flask(Python), ExpressJS(NodeJS)"
+        },
+        {
+            "routeItem": "Security and authentication (Data encryption, User authorization, JWT)"
+        },
+        {
+            "routeItem": "Related technology: Git, Docker, AWS"
+        },
+        {
+            "routeItem": "Build real projects"
+        }
+    ],
+    "fullstack": [
+        {
+            "routeItem": "HTML, CSS & Javascript"
+        },
+        {
+            "routeItem": "Framework Frontend"
+        },
+        {
+            "routeItem": "Learn server-side programming languages: Javascript(NodeJS) or TypeScript(NextJS)"
+        },
+        {
+            "routeItem": "Database: MySQL, PostgreSQL or SQLite"
+        },
+        {
+            "routeItem": "RESTful API"
+        },
+        {
+            "routeItem": "Web Services: Flask(Python), ExpressJS(NodeJS)"
+        },
+        {
+            "routeItem": "Security and authentication (Data encryption, User authorization, JWT)"
+        },
+        {
+            "routeItem": "Related technology: Git, Docker, AWS"
+        },
+        {
+            "routeItem": "Build real projects"
+        }
+    ]
 }
