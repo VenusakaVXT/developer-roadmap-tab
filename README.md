@@ -2,7 +2,8 @@
 The application is only a very small part based on the great inspiration of [**Developer Roadmaps**](https://roadmap.sh/). Instead of displaying it in diagram form, I have displayed the roadmap with bullet points in a top-to-bottom style.
 
 <div align="center">
-
+<br>
+<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="250" height="200">
 <br>
 <br>
