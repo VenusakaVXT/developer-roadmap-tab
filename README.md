@@ -21,7 +21,7 @@ Install libraries that have not been posted to the repository to support the pro
 $ npm install
 ```
 
-Before running the project, we need to call the API first so that the project can fetch the API and then upload the data to the UI.
+Before running the project, we need to call the API first so that the project can fetch the API and then upload the data to the UI. Otherwise the project will fail and have no data to display.
 ```
 $ npm run api
 ```
