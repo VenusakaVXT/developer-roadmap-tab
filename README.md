@@ -5,6 +5,7 @@ The application is only a very small part based on the great inspiration of [**D
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="250" height="200">
 
+<br>
 
 ![npx](https://badgen.net/badge/npx/9.6.7?labelColor=blue&color=black)
 ![npm](https://badgen.net/badge/npm/9.6.7?labelColor=blue&color=black)
