@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "api": "json-server db.json --watch"
+    "api": "json-server --watch db.json"
   },
   "eslintConfig": {
     "extends": [
@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "html-webpack-plugin": "^5.5.3"
   }
 }
