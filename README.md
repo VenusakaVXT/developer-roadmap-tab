@@ -46,7 +46,7 @@ Starts the development server.
 $ npm start
 ```
 
-After running the command to start the project, you can access the project at **Local** with address http://localhost:3000 or **On Your Network** with address http://192.168.10.1:3000.
+After running the command to start the project, you can access the project at **Local Network** with address http://localhost:3000 or **On Your Network** with address http://192.168.10.1:3000.
 
 Bundles the app into static files for production.
 ```
