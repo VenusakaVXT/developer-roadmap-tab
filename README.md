@@ -21,7 +21,14 @@ Install libraries that have not been posted to the repository to support the pro
 $ npm install
 ```
 
-Before running the project, we need to call the API first so that the project can fetch the API and then upload the data to the UI. Otherwise the project will fail and have no data to display.
+**Note: Before running the project, we need to call the API first so that the project can fetch the API and then upload the data to the UI. Otherwise the project will fail and have no data to display.**
+
+First, we move into the **api** folder to **mock api** from the **db.json** file.
+```
+$ cd api
+```
+
+Next, start **json-server** to bring data into the project.
 ```
 $ npm run api
 ```
